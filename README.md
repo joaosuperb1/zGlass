@@ -7,7 +7,7 @@ Viewport:
 ![Viewport](docs/viewport.png)  
 
 Imagem renderizada
-![Render](docs/render)
+![Render](docs/render.png)
 
 Mapa de profundidade do blender
 ![Mapa de profundiade do blender](docs/DEM_Blender.png)
@@ -16,7 +16,7 @@ Mapa de profundidade fake feito a partir de dois mapas com e sem o materia de vi
 ![Mapa de profundidade fake](docs/fake.png)
 
 Mapa de profundidade renderizado pelo zGlass
-![Mapa de profundidade renderizado pelo zGlass](docs/DEM_zGlass.ppg)
+![Mapa de profundidade renderizado pelo zGlass](docs/DEM_zGlass.png)
 
 
 ⚙️ Instalação
