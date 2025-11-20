@@ -2,6 +2,23 @@
 
 Este addon para Blender permite gerar mapas de profundidade (Depth Maps) mais precisos ao renderizar cenas com vidro. Ele rastrear a profundidade de cada pixel, levando em conta a refração, reflexão e IOR dos materiais de vidro.
 
+
+Viewport: 
+![Viewport](docs/viewport.png)  
+
+Imagem renderizada
+![Render](docs/render)
+
+Mapa de profundidade do blender
+![Mapa de profundiade do blender](docs/DEM_Blender.png)
+
+Mapa de profundidade fake feito a partir de dois mapas com e sem o materia de vidro
+![Mapa de profundidade fake](docs/fake.png)
+
+Mapa de profundidade renderizado pelo zGlass
+![Mapa de profundidade renderizado pelo zGlass](docs/DEM_zGlass.ppg)
+
+
 ⚙️ Instalação
 Para usar o addon no momento, você precisará carregar o script principal:
 
