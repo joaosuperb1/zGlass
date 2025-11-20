@@ -63,7 +63,7 @@ O objetivo principal é criar uma interface de usuário que elimine a necessidad
 
 🤝 Contribuições e Feedback
 
-Se você encontrar algum bug ou tiver sugestões de melhorias, por favor, abra uma Issue neste repositório. Seu feedback é muito importante nesta fase de desenvolvimento!
+Se você encontrar algum bug ou tiver sugestões de melhorias, por favor, abra uma Issue neste repositório.
 
 📜 Licença
 
