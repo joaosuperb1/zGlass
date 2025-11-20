@@ -48,8 +48,10 @@ Após configurar todos os materiais de vidro:
     Volte para a aba Scripting.
 
     Com o script carregado, clique no botão Run Script (icone de Play).
+    
+    O script irá executar(O blender ficara travado durante todo o tempo que o script estiver rodando) e o resultado estará disponível no painel de rendering, procure por 'Depth Map Render'
 
-O script irá executar(O blender ficara travado durante todo o tempo que o script estiver rodando) e o resultado estará disponível no painel de rendering, procure por 'Depth Map Render'
+
 
 🛣️ Próximos Passos
 
