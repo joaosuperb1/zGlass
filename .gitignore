@@ -1,0 +1,6 @@
+# Ignorar arquivos do Blender
+*.blend
+*.blend1
+*.blender
+*.crash.txt
+zGlass_alpha.py
